@@ -18,6 +18,8 @@
 
 generate jpg_to_gif.gif
 
+![gif animation](https://raw.githubusercontent.com/nobnov/gifanimation/master/jpg_to_gif.gif)
+
 ## Author
 **nobnov (Nobukazu Ishii)**
 
